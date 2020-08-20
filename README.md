@@ -1,2 +1,2 @@
 # AKS-C-
-Implementation of the AKS primality check in C++
+Implementation of the AKS primality test in C++
